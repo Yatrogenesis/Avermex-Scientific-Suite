@@ -4,7 +4,7 @@
 >
 > Enterprise-grade suite for pharmaceutical research, quantum chemistry simulations, and autonomous literature review.
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-Production-green)]()
 
@@ -446,13 +446,35 @@ Contact: [fmolina@avermex.com](mailto:fmolina@avermex.com)
 
 ## License
 
-Apache License 2.0 - See [LICENSE](LICENSE) for details
+**Proprietary Software** - All Rights Reserved
 
-### Commercial License
+This software is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
 
-For commercial use, enterprise support, or custom development:
+### License Options
+
+**Evaluation License** (30 days)
+- Free evaluation for non-commercial testing
+- Limited to evaluation purposes only
+
+**Commercial License** (Contact for pricing)
+- Production deployment rights
+- Technical support and maintenance
+- Customization services
 - Email: [fmolina@avermex.com](mailto:fmolina@avermex.com)
-- Website: [https://avermex.com](https://avermex.com)
+
+**Enterprise License** (Custom terms)
+- Unlimited users and deployments
+- Dedicated support team
+- Custom integrations
+- Regulatory compliance assistance
+- Service Level Agreements (SLAs)
+- Email: [fmolina@avermex.com](mailto:fmolina@avermex.com)
+
+**Academic License** (Special pricing)
+- Available for educational and research institutions
+- Contact for academic pricing
+
+See [LICENSE](LICENSE) for complete terms and conditions.
 
 ---
 
